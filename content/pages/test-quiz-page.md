@@ -5,4 +5,4 @@ draft: false
 title: Test Quiz Page
 uid: c5a1ed9a-e038-422d-af62-46d7b53cd73c
 ---
-{{\< quiz\_multiple\_choice questionId="Q1" >}}{{\< quiz\_choices >}}{{\< quiz\_choice isCorrect="false" >}}quiz option{{\< /quiz\_choice >}}{{\< /quiz\_choices >}}{{\< quiz\_solution "/" >}}{{\< /quiz\_multiple\_choice >}}
+{{< quiz_multiple_choice questionId="Q1" >}}{{< quiz_choices >}}{{< quiz_choice isCorrect="false" >}}quiz option{{< /quiz_choice >}}{{< /quiz_choices >}}{{< quiz_solution "/" >}}{{< /quiz_multiple_choice >}}
