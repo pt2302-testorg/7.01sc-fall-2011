@@ -4,6 +4,7 @@ description: This resource contains solution to problem sets related to biochemi
   genetics.
 draft: false
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/86234678b1e7ded9e7f86b957c5a8bbb_MIT7_01SCF11_3.4sol1.pdf
+file_size: 162760
 file_type: application/pdf
 image_metadata:
   caption: ''

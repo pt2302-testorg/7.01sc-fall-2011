@@ -4,6 +4,7 @@ description: This resource contains problem set related to alternative approache
   to molecular biology.
 draft: false
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/1e8ae573cb4f3035af555f9c200af5dd_MIT7_01SCF11_2.4prob.pdf
+file_size: 138896
 file_type: application/pdf
 image_metadata:
   caption: ''

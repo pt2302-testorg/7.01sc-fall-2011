@@ -4,6 +4,7 @@ description: This resource contains solutions for the problem statements for the
   2 related to molecular biology.
 draft: false
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/7440ab80be6bc7dbe2d2509d4d630a3f_MIT7_01SCF11_exam2_sol.pdf
+file_size: 267703
 file_type: application/pdf
 image_metadata:
   caption: ''

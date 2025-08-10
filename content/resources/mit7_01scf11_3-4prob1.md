@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problem sets related to biochemical genetics.
 draft: false
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/dadce1d4aaafd7e04a2775c28362787b_MIT7_01SCF11_3.4prob1.pdf
+file_size: 137681
 file_type: application/pdf
 image_metadata:
   caption: ''

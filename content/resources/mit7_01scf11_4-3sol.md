@@ -4,6 +4,7 @@ description: This resource contains solution to the problem set related to const
   and screening a recombinant DNA library.
 draft: false
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/496c855e659300c14db8e842939ca55d_MIT7_01SCF11_4.3sol.pdf
+file_size: 114122
 file_type: application/pdf
 image_metadata:
   caption: ''

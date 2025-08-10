@@ -4,6 +4,7 @@ description: This resource contains information related to structures of amino a
   at pH 7.0.
 draft: false
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/274df9f4b3cead031889d1a3448360d9_MIT7_01SCF11_1.4amino.pdf
+file_size: 143966
 file_type: application/pdf
 image_metadata:
   caption: ''

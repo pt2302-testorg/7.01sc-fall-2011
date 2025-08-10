@@ -4,6 +4,7 @@ description: 'This resource contains information related to the lac operon: a mo
   of gene regulation in E. coli.'
 draft: false
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/a13c62cd30232e7b4e6f42d9b10fddcf_MIT7_01SCF11_2.5diagram.pdf
+file_size: 68660
 file_type: application/pdf
 image_metadata:
   caption: ''

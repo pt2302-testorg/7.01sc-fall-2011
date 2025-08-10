@@ -4,6 +4,7 @@ description: This resource contains problem set related to DNA structure, classi
   experiments.
 draft: false
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/20445ba44a664923fd74ae15e3133723_MIT7_01SCF11_2.1prob1.pdf
+file_size: 164982
 file_type: application/pdf
 image_metadata:
   caption: ''

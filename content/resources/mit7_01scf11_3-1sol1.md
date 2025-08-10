@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains solution to problem sets related to mendel's law.
 draft: false
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/edef496d9cc1b0e3b5c0e35aec29f6ac_MIT7_01SCF11_3.1sol1.pdf
+file_size: 201994
 file_type: application/pdf
 image_metadata:
   caption: ''
