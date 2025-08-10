@@ -4,6 +4,7 @@ description: This resource contains problem sets related to practice problems fo
   molecular biology, session 2.
 draft: false
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/d2cdbbbd3edc74951a83787cbcc71f88_MIT7_01SCF11_2.2prob.pdf
+file_size: 221016
 file_type: application/pdf
 image_metadata:
   caption: ''

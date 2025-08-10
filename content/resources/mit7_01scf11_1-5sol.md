@@ -4,6 +4,7 @@ description: This resource contains solution to the problem set related to bioch
   reactions, enzymes and ATP.
 draft: false
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/653bf5bdea8911e0e42e998999d13cb9_MIT7_01SCF11_1.5sol.pdf
+file_size: 227693
 file_type: application/pdf
 image_metadata:
   caption: ''

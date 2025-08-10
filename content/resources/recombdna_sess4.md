@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/ffa253ed15aa5cb134cc7e94d643b2cd_RecombDNA_sess4.jpg
+file_size: 3087
 file_type: image/jpeg
 image_metadata:
   caption: ''

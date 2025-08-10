@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/a175624b9d279a0b9377d039a0d4f4df_OCWmobiosession4_quizzes_clip_image002.png
+file_size: 16307
 file_type: image/png
 image_metadata:
   caption: ''

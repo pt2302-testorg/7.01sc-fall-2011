@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problem statements for exam 3 related to genetics.
 draft: false
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/6feaadb59ef84248bdd913076194580b_MIT_7_01SCF11_exam3.pdf
+file_size: 184235
 file_type: application/pdf
 image_metadata:
   caption: ''

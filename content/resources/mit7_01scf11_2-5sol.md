@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: false
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/005416e93ffe63989cd555aab605a37b_MIT7_01SCF11_2.5sol.pdf
+file_size: 196903
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -4,6 +4,7 @@ description: This resource contains solution to the problem set related to cDNA 
   and expression libraries.
 draft: false
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/04ca13574f83a54e3fd74fc5b9cabbc1_MIT7_01SCF11_4.4sol.pdf
+file_size: 187290
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -4,6 +4,7 @@ description: This resource contains problem set related to biochemical reactions
   enzymes and ATP.
 draft: false
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/a61124da1927b71dc73326804a802b39_MIT7_01SCF11_1.5prob.pdf
+file_size: 207297
 file_type: application/pdf
 image_metadata:
   caption: ''

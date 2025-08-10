@@ -3,6 +3,7 @@ content_type: resource
 description: This resource is a help session problem for biochemical genetics.
 draft: false
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/c2b922885acce04edfaca18ba410f636_MIT_7_01SCF11_3.4recprob.pdf
+file_size: 87433
 file_type: application/pdf
 image_metadata:
   caption: ''

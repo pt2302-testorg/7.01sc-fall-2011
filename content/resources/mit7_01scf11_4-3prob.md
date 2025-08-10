@@ -4,6 +4,7 @@ description: This resource contains problem set related to constructing and scre
   a recombinant DNA library.
 draft: false
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/2fc4084167849d6d0ffb11312ffdb5c5_MIT7_01SCF11_4.3prob.pdf
+file_size: 101441
 file_type: application/pdf
 image_metadata:
   caption: ''

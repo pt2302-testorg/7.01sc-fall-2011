@@ -4,6 +4,7 @@ description: This resource contains problem set related to cDNA libraries and ex
   libraries.
 draft: false
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/b18b00b52f02597142351020c248513b_MIT7_01SCF11_4.4prob.pdf
+file_size: 176542
 file_type: application/pdf
 image_metadata:
   caption: ''

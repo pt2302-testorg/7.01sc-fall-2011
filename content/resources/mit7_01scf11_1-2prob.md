@@ -4,6 +4,7 @@ description: 'This resource contains problem set related to macromolecules: lipi
   carbohydrates, nucleic acid.'
 draft: false
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/7b1fe7c46ccbc104f8a3080310d14d5a_MIT7_01SCF11_1.2prob.pdf
+file_size: 104670
 file_type: application/pdf
 image_metadata:
   caption: ''

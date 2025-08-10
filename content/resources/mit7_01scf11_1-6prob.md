@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problem set related to respiration and fermentation.
 draft: false
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/92e94b83a425a5a1ee88e3fe029a5807_MIT7_01SCF11_1.6prob.pdf
+file_size: 207876
 file_type: application/pdf
 image_metadata:
   caption: ''

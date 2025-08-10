@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains solution to problem sets related to pedigrees.
 draft: false
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/fc9adae0d860c52cde83e97909f3951a_MIT7_01SCF11_3.3sol1.pdf
+file_size: 205802
 file_type: application/pdf
 image_metadata:
   caption: ''

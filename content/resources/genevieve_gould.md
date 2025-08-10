@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/d1aa59dbe74de4c3ce6cd085893ab233_genevieve_gould.jpg
+file_size: 29738
 file_type: image/jpeg
 image_metadata:
   caption: ''

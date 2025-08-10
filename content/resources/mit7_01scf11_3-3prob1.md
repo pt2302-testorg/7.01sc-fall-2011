@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problem sets related to pedigress.
 draft: false
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/aab2c35a40d37356fdadc9b9e5e23861_MIT7_01SCF11_3.3prob1.pdf
+file_size: 182270
 file_type: application/pdf
 image_metadata:
   caption: ''

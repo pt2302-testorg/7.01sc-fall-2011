@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to terms and definitions.
 draft: false
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/13aaf4b79c5d93421a12040f3fad06de_MIT7_01SCF11_3.1terms.pdf
+file_size: 80740
 file_type: application/pdf
 image_metadata:
   caption: ''
