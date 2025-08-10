@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/bff69c566199222cf8fe907f1b9fba75_robert_dorkin.jpg
+file_size: 23681
 file_type: image/jpeg
 image_metadata:
   caption: ''

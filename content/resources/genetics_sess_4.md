@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/b2237ee42cab9e06b1b957daeb380a14_Genetics_sess_4.jpg
+file_size: 2637
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/da761e7c745a2295aa350df0e8637b03_nicole_denisco2.jpg
+file_size: 24731
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/99a3103fc6676bffa7413aa78f76eae9_Sallie_W_Chisholm.jpg
+file_size: 19395
 file_type: image/jpeg
 image_metadata:
   caption: ''
