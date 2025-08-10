@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/58995f1c9c7ee330321018ae262234c5_Michelle_Mischke.jpg
+file_size: 15520
 file_type: image/jpeg
 image_metadata:
   caption: ''

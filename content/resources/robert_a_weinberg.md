@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/feac9fa83e86017134482ffb7055b2d7_Robert_A_Weinberg.jpg
+file_size: 16020
 file_type: image/jpeg
 image_metadata:
   caption: ''

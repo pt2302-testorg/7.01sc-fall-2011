@@ -4,6 +4,7 @@ description: This resource contains solution to the problem set related to prote
   levels of structure, non-covalent forces.
 draft: false
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/ddfbc7c06d0edb746e9390c964757b71_MIT7_01SCF11_1.4sol.pdf
+file_size: 200852
 file_type: application/pdf
 image_metadata:
   caption: ''

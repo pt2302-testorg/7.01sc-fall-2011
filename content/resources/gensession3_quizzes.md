@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/2550e3b6eb2d7737c03c6626fa4c3352_gensession3_quizzes.gif
+file_size: 4162
 file_type: image/gif
 image_metadata:
   caption: ''

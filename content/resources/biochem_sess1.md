@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/fc084a1defb59e2d202cfb8217f732be_Biochem_sess1.jpg
+file_size: 3075
 file_type: image/jpeg
 image_metadata:
   caption: ''

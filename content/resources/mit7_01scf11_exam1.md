@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problem set related to exam 1.
 draft: false
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/7a9390d436e6ba0369611c8b64522441_MIT7_01SCF11_exam1.pdf
+file_size: 242796
 file_type: application/pdf
 image_metadata:
   caption: ''

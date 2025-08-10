@@ -4,6 +4,7 @@ description: 'This resource contains solution to the problem set related to macr
   lipids, carbohydrates, nucleic acid.'
 draft: false
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/97be7ab10307d71a289dc44d32ecc650_MIT7_01SCF11_1.2sol.pdf
+file_size: 125960
 file_type: application/pdf
 image_metadata:
   caption: ''

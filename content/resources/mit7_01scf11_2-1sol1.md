@@ -4,6 +4,7 @@ description: This resource contains solution to the problem set related to DNA s
   classic experiments.
 draft: false
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/8b297b772b66d90db5d87b214ccdb97b_MIT7_01SCF11_2.1sol1.pdf
+file_size: 173010
 file_type: application/pdf
 image_metadata:
   caption: ''
